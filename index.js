@@ -1,4 +1,5 @@
 function add(a, b) {return a+b}
-60-40
-2*3.4
-5.0/2.5
+function multiply(a, b) {return a*b}
+function divide(a, b) {return a/b}
+function dec(n) {return --n}
+
